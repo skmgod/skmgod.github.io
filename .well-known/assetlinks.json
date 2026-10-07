@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.skmgod.villanote",
+    "sha256_cert_fingerprints": [
+      "B3:8E:E8:0C:BF:DC:89:69:66:A9:11:3D:42:83:36:A8:96:43:43:AC:8B:26:70:53:E4:2D:93:69:36:C9:19:B4"
+    ]
+  }
+}]
