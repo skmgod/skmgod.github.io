@@ -1,10 +1,26 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.skmgod.villanote",
-    "sha256_cert_fingerprints": [
-      "B3:8E:E8:0C:BF:DC:89:69:66:A9:11:3D:42:83:36:A8:96:43:43:AC:8B:26:70:53:E4:2D:93:69:36:C9:19:B4"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.skmgod.villanote",
+      "sha256_cert_fingerprints": [
+        "B3:8E:E8:0C:BF:DC:89:69:66:A9:11:3D:42:83:36:A8:96:43:43:AC:8B:26:70:53:E4:2D:93:69:36:C9:19:B4"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.skmgod.cleaningnote",
+      "sha256_cert_fingerprints": [
+        "FB:31:1A:5F:20:FB:11:6F:4D:86:86:26:C5:AE:7E:69:C5:2A:26:07:56:54:4E:F3:7B:79:24:72:29:E0:EB:B1"
+      ]
+    }
   }
-}]
+]
